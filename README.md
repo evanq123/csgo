@@ -1,7 +1,7 @@
 # MooCow's CSGO configuration.
 [Steam](http://steamcommunity.com/id/MooCow126)
 
-[Donate Skins](https://steamcommunity.com/tradeoffer/new/?partner=335955024&token=7MhQAjB6)
+[Donate skins](https://steamcommunity.com/tradeoffer/new/?partner=335955024&token=7MhQAjB6)
 
 ## Other settings:
 * Mouse: Logitech G Pro w/ Second Highest DPI Settings
