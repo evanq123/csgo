@@ -1,4 +1,7 @@
-# csgo
+# MooCow's CSGO configuration.
+
+# Installation:
+WIP.
 
 # TODO:
 * Fix console display dependencies.
